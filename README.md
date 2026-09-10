@@ -123,6 +123,28 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:7C3AED,100:FF007A&amp;height=3&amp;section=header" width="100%" />
 
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=anshulr0019&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=10&amp;date_format=j%20M%5B%20Y%5D&amp;ring=00D9FF&amp;fire=FF007A&amp;currStreakLabel=00D9FF&amp;sideLabels=7C3AED" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshulr0019&amp;theme=tokyonight" width="100%" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anshulr0019&amp;theme=tokyonight" width="32%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anshulr0019&amp;theme=tokyonight" width="32%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anshulr0019&amp;theme=tokyonight" width="32%" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anshulr0019&amp;theme=tokyonight&amp;utcOffset=5.5" width="49%" alt="Productive Time" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:7C3AED,100:FF007A&amp;height=3&amp;section=header" width="100%" />
+
 ## 3D Contribution Calendar
 
 <p align="center">
@@ -147,6 +169,16 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshulr0019/anshulr0019/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/anshulr0019/anshulr0019/output/github-contribution-grid-snake-dark.svg">
   </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:7C3AED,100:FF007A&amp;height=3&amp;section=header" width="100%" />
+
+## Now Playing on Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=true&amp;background_color=1a1b27&amp;interchange=true&amp;bar_color=00D9FF&amp;bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:00D9FF,50:7C3AED,100:FF007A&amp;height=3&amp;section=header" width="100%" />
