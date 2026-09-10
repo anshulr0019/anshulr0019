@@ -4,23 +4,32 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: 3D Contribution
-    steps:
-      - uses: actions/checkout@v4
+    name: Generate 3D Contribution Profile
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: anshulr0019
 
-      - name: Commit & Push
+      - name: Commit and push generated files
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add -A .
           git commit -m "generate 3d contribution profile" || exit 0
           git push
