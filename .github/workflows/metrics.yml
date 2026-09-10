@@ -4,25 +4,27 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: anshulr0019
           filename: metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_charts: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: "0%"
+          plugin_languages_sections: most-used
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
