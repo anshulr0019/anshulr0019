@@ -128,8 +128,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:FF007A&height=120&section=footer" />
-## 🏙️ 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-</p>
