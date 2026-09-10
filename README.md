@@ -95,7 +95,23 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8b6-80e4-44ef-9c61-24557cf5d62a.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8b6-80e4-44ef-9c61-24557cf5d62a.gif" width="100%">
 
+## 🏙️ 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshulr0019/anshulr0019/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8b6-80e4-44ef-9c61-24557cf5d62a.gif" width="100%">
+
+## 📊 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anshulr0019/anshulr0019/main/metrics.svg" width="100%" alt="GitHub Metrics Dashboard" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8b6-80e4-44ef-9c61-24557cf5d62a.gif" width="100%">
 ## 🐍 Contribution Snake
 
 <p align="center">
